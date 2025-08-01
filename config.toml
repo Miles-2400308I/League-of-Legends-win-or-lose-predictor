@@ -1,0 +1,8 @@
+[theme]
+base = "dark"  # Force dark mode
+primaryColor = "#C89B3C"  # LoL Gold
+backgroundColor = "#0A0A0A"  # Very dark
+secondaryBackgroundColor = "#2E2E38"  # Widget containers
+textColor = "#EAEAEA"  # Light text
+font = "sans serif"  # Optional: 'monospace', 'serif', etc.
+
